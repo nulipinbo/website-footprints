@@ -1,0 +1,369 @@
+addToMap(
+[
+  {
+    "lng": 118.934232,
+    "lat": 29.553864,
+    "title": "",
+    "content": "千岛湖国家森林公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 119.224824,
+    "lat": 29.595154,
+    "title": "",
+    "content": "千岛湖森林氧吧",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 118.168089,
+    "lat": 30.13039,
+    "title": "",
+    "content": "黄山风景区",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 118.317035,
+    "lat": 29.714755,
+    "title": "",
+    "content": "老街",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 117.996734,
+    "lat": 30.008708,
+    "title": "",
+    "content": "宏村",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.323376,
+    "lat": 29.143633,
+    "title": "",
+    "content": "横店影视城",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.152991,
+    "lat": 30.249637,
+    "title": "",
+    "content": "西湖风景区",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.149074,
+    "lat": 30.238234,
+    "title": "",
+    "content": "苏堤",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.14437,
+    "lat": 30.250088,
+    "title": "",
+    "content": "苏堤春晓",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.150684,
+    "lat": 30.244082,
+    "title": "",
+    "content": "三潭印月",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.155358,
+    "lat": 30.236839,
+    "title": "",
+    "content": "雷峰塔景区",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.071557,
+    "lat": 30.272789,
+    "title": "",
+    "content": "西溪国家湿地公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.102776,
+    "lat": 30.251358,
+    "title": "",
+    "content": "北高峰",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.10826,
+    "lat": 30.246569,
+    "title": "",
+    "content": "灵隐寺",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.175763,
+    "lat": 30.24564,
+    "title": "",
+    "content": "河坊街景区",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 117.097225,
+    "lat": 36.275859,
+    "title": "",
+    "content": "泰山风景区",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 117.115861,
+    "lat": 36.263622,
+    "title": "",
+    "content": "泰山·玉皇顶",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.222772,
+    "lat": 31.527273,
+    "title": "",
+    "content": "太湖鼋头渚风景区",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.199373,
+    "lat": 31.522099,
+    "title": "",
+    "content": "太湖仙岛",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 120.198082,
+    "lat": 31.525598,
+    "title": "",
+    "content": "太湖仙岛·水帘洞",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 118.805218,
+    "lat": 32.078851,
+    "title": "",
+    "content": "玄武湖公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 118.861453,
+    "lat": 32.059739,
+    "title": "",
+    "content": "中山陵",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 118.795264,
+    "lat": 32.027003,
+    "title": "",
+    "content": "南京夫子庙",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 118.795956,
+    "lat": 32.026196,
+    "title": "",
+    "content": "夫子庙秦淮风光带",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 112.307941,
+    "lat": 33.735198,
+    "title": "",
+    "content": "尧山国家地质公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 113.333813,
+    "lat": 33.7729,
+    "title": "",
+    "content": "平顶山·山顶公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 113.877937,
+    "lat": 34.465036,
+    "title": "",
+    "content": "郑州园博园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.481348,
+    "lat": 31.235087,
+    "title": "",
+    "content": "上海人民广场",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.497204,
+    "lat": 31.243453,
+    "title": "",
+    "content": "外滩",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.506377,
+    "lat": 31.245105,
+    "title": "",
+    "content": "东方明珠",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.498841,
+    "lat": 31.232674,
+    "title": "",
+    "content": "豫园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.558979,
+    "lat": 31.222046,
+    "title": "",
+    "content": "世纪公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.479638,
+    "lat": 31.189907,
+    "title": "",
+    "content": "后滩公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.9473,
+    "lat": 30.90357,
+    "title": "",
+    "content": "滴水湖",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.483101,
+    "lat": 31.241022,
+    "title": "",
+    "content": "南京路步行街",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.727995,
+    "lat": 31.06138,
+    "title": "",
+    "content": "上海野生动物园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 116.403847,
+    "lat": 39.915526,
+    "title": "",
+    "content": "天安门",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 116.404177,
+    "lat": 39.909652,
+    "title": "",
+    "content": "天安门广场",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 116.403414,
+    "lat": 39.924091,
+    "title": "",
+    "content": "故宫博物院",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 116.016809,
+    "lat": 40.361911,
+    "title": "",
+    "content": "八达岭长城",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 113.198294,
+    "lat": 33.765188,
+    "time": "",
+    "title": "",
+    "content": "白龟山水库",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 114.893975,
+    "lat": 33.7561,
+    "time": "",
+    "title": "",
+    "content": "太昊陵",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 113.05345,
+    "lat": 34.51078,
+    "title": "",
+    "time": "2019-05-24",
+    "content": "太室山",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 112.989922,
+    "lat": 34.496501,
+    "time": "2019-05-25",
+    "title": "",
+    "content": "少室山",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 112.948191,
+    "lat": 34.511718,
+    "time": "2019-05-25",
+    "title": "",
+    "content": "少林寺",
+    "animation": "",
+    "customIcon": "default"
+  }
+]
+)
