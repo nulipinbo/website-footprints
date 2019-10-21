@@ -364,6 +364,15 @@ addToMap(
     "content": "少林寺",
     "animation": "",
     "customIcon": "default"
+  },
+  {
+    "lng": 119.660599,
+    "lat": 30.677786,
+    "time": "2019-10-06",
+    "title": "",
+    "content": "中南百草原",
+    "animation": "",
+    "customIcon": "default"
   }
 ]
 )
