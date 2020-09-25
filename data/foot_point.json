@@ -373,6 +373,24 @@ addToMap(
     "content": "中南百草原",
     "animation": "",
     "customIcon": "default"
+  },
+  {
+    "lng": 121.97951,
+    "lat": 30.888463,
+    "time": "2020-06-26",
+    "title": "",
+    "content": "南汇嘴观海公园",
+    "animation": "",
+    "customIcon": "default"
+  },
+  {
+    "lng": 121.926682,
+    "lat": 30.864163,
+    "time": "2020-06-26",
+    "title": "",
+    "content": "南汇新城海滩",
+    "animation": "",
+    "customIcon": "default"
   }
 ]
 )
