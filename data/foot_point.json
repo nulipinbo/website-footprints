@@ -391,6 +391,15 @@ addToMap(
     "content": "南汇新城海滩",
     "animation": "",
     "customIcon": "default"
+  },
+  {
+    "lng": 121.671964,
+    "lat": 31.148267,
+    "time": "2020-09-13",
+    "title": "",
+    "content": "上海迪士尼度假区",
+    "animation": "",
+    "customIcon": "default"
   }
 ]
 )
